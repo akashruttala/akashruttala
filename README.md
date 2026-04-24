@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm AKASH RUTTALA
 
-<!--
-**akashruttala/akashruttala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 About Me
+I am a Computer Science student passionate about coding, DSA, and building real-world projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Interests
+- 💻 Java, C, C++, Python  
+- 🌐 HTML, CSS, JavaScript  
+- ⚙️ Spring Boot, Bootstrap  
+- 🗄️ MySQL  
+- 📊 DSA, OOP, DBMS, OS  
+
+---
+
+## 📂 Projects
+### 🔹 Smart Healthcare Management System
+- Built using React + Spring Boot  
+- Includes patient & appointment management  
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/yourusername
