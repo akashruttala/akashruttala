@@ -6,13 +6,14 @@ Hey there! I'm Akash, a final-year Integrated M Tech student at VIT Amaravathi w
 ---
 
 ## 🚀 Skills & Interests
-💻 Programming Languages: Java, Python, C++, HTML, CSS, JavaScript
-📚 Frameworks/Libraries: Bootstrap
-🗄️ Databases: MySQL, MongoDB
-🧩 Data Structures & Algorithms: Structuring information for efficiency
-🛠️ Developer Tools: Git/GitHub, Google Colab, VS Code, IntelliJ IDEA
-🎓 Academic Coursework: Data Structures, Operating Systems, CN, OOP, DBMS
-🎯 Interests: Problem-Solving, Competitive Programming, Open-Source Contributions  
+
+- 💻 **Programming Languages:** Java, Python, C++, HTML, CSS, JavaScript  
+- 📚 **Frameworks/Libraries:** Bootstrap  
+- 🗄️ **Databases:** MySQL, MongoDB  
+- 🧠 **Data Structures & Algorithms:** Strong problem-solving and optimization  
+- 🛠️ **Developer Tools:** Git/GitHub, Google Colab, VS Code, IntelliJ IDEA  
+- 🎓 **Academic Coursework:** Data Structures, Operating Systems, CN, OOP, DBMS  
+- 🎯 **Interests:** Problem-Solving, Competitive Programming, Open-Source Contributions    
 
 ---
 
