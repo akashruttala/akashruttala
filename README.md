@@ -26,6 +26,13 @@ Hey there! I'm Akash, a final-year Integrated M Tech student at VIT Amaravathi w
 - 🔗 [Project Link](https://github.com/akashruttala/Smart-Healthcare-and-Management)
 
 ---
+### 🏥 Smart Healthcare Management System
+- Full-stack expense tracker built using React and Flask  
+- Features: Add expenses, show all expenses, ETL support for csv , excel  
+- Tech Stack: React, Flask, MySQL, pandas  
+- 🔗 [Project Link](https://github.com/akashruttala/expense-tracker)
+
+---
 
 ### 🤖 AI Resume Analyzer
 - ML-based system to analyze resumes against job descriptions  
